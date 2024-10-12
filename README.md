@@ -11,7 +11,6 @@ Enviormentally safe drones delivering both prescription and over-the counter med
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://www.flickr.com/photos/143204884@N06/33751810360"> 
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
